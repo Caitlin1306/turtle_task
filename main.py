@@ -1,0 +1,70 @@
+# Run the code to see the shape it draws. Modify it to make your own pattern. You can use pentagons and hexagons that we looked at earlier.
+
+
+import turtle # imports the module so we can use its methods
+my_turtle=turtle.Turtle() # create a Turtle named my_turtle
+my_turtle.speed(20)
+my_turtle.color('blue')
+
+for i in range(0,36):
+  for i in range(0,4):
+    my_turtle.forward(100)
+    my_turtle.right(90)
+  my_turtle.color('purple')
+  my_turtle.circle(50)
+  my_turtle.color('blue')
+  my_turtle.right(15)
+  my_turtle.right(35)
+  my_turtle.circle(70)
+  my_turtle.color('red')
+  my_turtle.forward(90)
+  my_turtle.right(80)
+  my_turtle.color('yellow')
+  my_turtle.forward(150)
+  my_turtle.right(120)
+  my_turtle.color('orange')
+  my_turtle.circle(60)
+  my_turtle.color('green')
+my_turtle.forward(500)
+for i in range(0,36):
+  for i in range(0,4):
+    my_turtle.forward(100)
+    my_turtle.right(90)
+  my_turtle.color('purple')
+  my_turtle.circle(50)
+  my_turtle.color('blue')
+  my_turtle.right(15)
+  my_turtle.right(35)
+  my_turtle.circle(70)
+  my_turtle.color('red')
+  my_turtle.forward(90)
+  my_turtle.right(80)
+  my_turtle.color('yellow')
+  my_turtle.forward(150)
+  my_turtle.right(120)
+  my_turtle.color('orange')
+  my_turtle.circle(60)
+  my_turtle.circle(60)
+  my_turtle.color('green')
+my_turtle.forward(500)
+for i in range(0,36):
+  for i in range(0,4):
+    my_turtle.forward(100)
+    my_turtle.right(90)
+  my_turtle.color('purple')
+  my_turtle.circle(50)
+  my_turtle.color('blue')
+  my_turtle.right(15)
+  my_turtle.right(35)
+  my_turtle.circle(70)
+  my_turtle.color('red')
+  my_turtle.forward(90)
+  my_turtle.right(80)
+  my_turtle.color('yellow')
+  my_turtle.forward(150)
+  my_turtle.right(120)
+  my_turtle.color('orange')
+  my_turtle.circle(60)
+  my_turtle.circle(60)
+  my_turtle.color('green')
+
