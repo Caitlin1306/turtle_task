@@ -2,7 +2,8 @@
 Coding 3 circles using Python turtle
 [live app](https://replit.com/@Caitlin1306/turtle-loop#main.py)
 
-Using replit I edited and added my own code to create 3 circles using python turtle. Please see below the code I used to do so. :)
+Using replit I edited and added my own code to create 3 circles using python turtle. 
+Please see below the code I used to do so. :)
 
 ```
 
